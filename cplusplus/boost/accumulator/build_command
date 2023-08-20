@@ -1,0 +1,1 @@
+g++ accumulator_example_main.cc  -lboost_serialization
